@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/Tree" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/Array &amp; Matrix/pom.xml" />
+        <option value="$PROJECT_DIR$/Sort/pom.xml" />
+        <option value="$PROJECT_DIR$/BackTrack/pom.xml" />
+        <option value="$PROJECT_DIR$/Bfs&amp;Dfs/pom.xml" />
+        <option value="$PROJECT_DIR$/Binary/pom.xml" />
+        <option value="$PROJECT_DIR$/BinaryIndexedTree/pom.xml" />
+        <option value="$PROJECT_DIR$/BinarySearch/pom.xml" />
+        <option value="$PROJECT_DIR$/BitArithmetic/pom.xml" />
+        <option value="$PROJECT_DIR$/ConcurrentProgramming/pom.xml" />
+        <option value="$PROJECT_DIR$/contest/pom.xml" />
+        <option value="$PROJECT_DIR$/DataStructureExer/pom.xml" />
+        <option value="$PROJECT_DIR$/Deque/pom.xml" />
+        <option value="$PROJECT_DIR$/DP/pom.xml" />
+        <option value="$PROJECT_DIR$/GreedyAlgorithm/pom.xml" />
+        <option value="$PROJECT_DIR$/Hash/pom.xml" />
+        <option value="$PROJECT_DIR$/javaLanguage/pom.xml" />
+        <option value="$PROJECT_DIR$/LinkedList/pom.xml" />
+        <option value="$PROJECT_DIR$/Math/pom.xml" />
+        <option value="$PROJECT_DIR$/Offer/pom.xml" />
+        <option value="$PROJECT_DIR$/String/pom.xml" />
+        <option value="$PROJECT_DIR$/Topo/pom.xml" />
+        <option value="$PROJECT_DIR$/Tree/pom.xml" />
+        <option value="$PROJECT_DIR$/SceneDesign/pom.xml" />
+        <option value="$PROJECT_DIR$/HOT100/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Array &amp; Matrix/Array &amp; Matrix.iml" filepath="$PROJECT_DIR$/Array &amp; Matrix/Array &amp; Matrix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BackTrack/BackTrack.iml" filepath="$PROJECT_DIR$/BackTrack/BackTrack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Bfs&amp;Dfs/Bfs&amp;Dfs.iml" filepath="$PROJECT_DIR$/Bfs&amp;Dfs/Bfs&amp;Dfs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Binary/Binary.iml" filepath="$PROJECT_DIR$/Binary/Binary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BinaryIndexedTree/BinaryIndexedTree.iml" filepath="$PROJECT_DIR$/BinaryIndexedTree/BinaryIndexedTree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BinarySearch/BinarySearch.iml" filepath="$PROJECT_DIR$/BinarySearch/BinarySearch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BitArithmetic/BitArithmetic.iml" filepath="$PROJECT_DIR$/BitArithmetic/BitArithmetic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ConcurrentProgramming/ConcurrentProgramming.iml" filepath="$PROJECT_DIR$/ConcurrentProgramming/ConcurrentProgramming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DP/DP.iml" filepath="$PROJECT_DIR$/DP/DP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DataStructureExer/DataStructureExer.iml" filepath="$PROJECT_DIR$/DataStructureExer/DataStructureExer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DePointer/DePointer.iml" filepath="$PROJECT_DIR$/DePointer/DePointer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Deque/Deque.iml" filepath="$PROJECT_DIR$/Deque/Deque.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GreedyAlgorithm/GreedyAlgorithm.iml" filepath="$PROJECT_DIR$/GreedyAlgorithm/GreedyAlgorithm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HOT100/HOT100.iml" filepath="$PROJECT_DIR$/HOT100/HOT100.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hash/Hash.iml" filepath="$PROJECT_DIR$/Hash/Hash.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JUC/JUC.iml" filepath="$PROJECT_DIR$/JUC/JUC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LinkedList/LinkedList.iml" filepath="$PROJECT_DIR$/LinkedList/LinkedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Math/Math.iml" filepath="$PROJECT_DIR$/Math/Math.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Offer/Offer.iml" filepath="$PROJECT_DIR$/Offer/Offer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SceneDesign/SceneDesign.iml" filepath="$PROJECT_DIR$/SceneDesign/SceneDesign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SlidingWindow/SlidingWindow.iml" filepath="$PROJECT_DIR$/SlidingWindow/SlidingWindow.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sort/Sort.iml" filepath="$PROJECT_DIR$/Sort/Sort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/String/String.iml" filepath="$PROJECT_DIR$/String/String.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Topo/Topo.iml" filepath="$PROJECT_DIR$/Topo/Topo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tree/Tree.iml" filepath="$PROJECT_DIR$/Tree/Tree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/contest/contest.iml" filepath="$PROJECT_DIR$/contest/contest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaLanguage/javaLanguage.iml" filepath="$PROJECT_DIR$/javaLanguage/javaLanguage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/leetcode.iml" filepath="$PROJECT_DIR$/leetcode.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="contest" />
+        <module name="BinarySearch" />
+        <module name="DataStructureExer" />
+        <module name="BinaryIndexedTree" />
+        <module name="Bfs&amp;Dfs" />
+        <module name="String" />
+        <module name="DP" />
+        <module name="Hash" />
+        <module name="Math" />
+        <module name="BitArithmetic" />
+        <module name="Deque" />
+        <module name="LinkedList" />
+        <module name="BackTrack" />
+        <module name="javaLanguage" />
+        <module name="Array &amp; Matrix" />
+        <module name="Offer" />
+        <module name="Sort" />
+        <module name="Tree" />
+        <module name="HOT100" />
+        <module name="GreedyAlgorithm" />
+        <module name="Binary" />
+        <module name="SceneDesign" />
+        <module name="ConcurrentProgramming" />
+        <module name="Topo" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Array &amp; Matrix" target="8" />
+      <module name="BackTrack" target="8" />
+      <module name="Bfs&amp;Dfs" target="8" />
+      <module name="Binary" target="8" />
+      <module name="BinaryIndexedTree" target="8" />
+      <module name="BinarySearch" target="8" />
+      <module name="BitArithmetic" target="8" />
+      <module name="ConcurrentProgramming" target="8" />
+      <module name="contest" target="8" />
+      <module name="DataStructureExer" target="8" />
+      <module name="Deque" target="8" />
+      <module name="DP" target="8" />
+      <module name="GreedyAlgorithm" target="8" />
+      <module name="Hash" target="8" />
+      <module name="HOT100" target="8" />
+      <module name="javaLanguage" target="8" />
+      <module name="leetcode" target="8" />
+      <module name="LinkedList" target="8" />
+      <module name="Math" target="8" />
+      <module name="Offer" target="8" />
+      <module name="SceneDesign" target="8" />
+      <module name="Sort" target="8" />
+      <module name="String" target="8" />
+      <module name="Topo" target="8" />
+      <module name="Tree" target="8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
