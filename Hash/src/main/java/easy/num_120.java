@@ -2,6 +2,7 @@ package easy;
 
 import org.junit.Test;
 
+import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.HashSet;
 import java.util.Set;
@@ -29,6 +30,21 @@ public class num_120 {
             }
         }
         return ans;
+    }
+
+    public int min(int n, int[] a, int[] b){
+        int[][] dp = new int[n][3];
+        dp[0][0] = 1;
+        for (int i = 1; i < n; i++) {
+            if(a[i] == 1){
+                dp[i][1] = Math.min(dp[i-1][0],dp[i-1][2]);
+            }
+            if(b[i] == 1){
+                dp[i][2] = Math.min(dp[i-1][0],dp[i-1][1]);
+            }
+            dp[i][0] = Math.min(Math.min(dp[i-1][0],dp[i-1][1]),dp[i-1][2]) + 1;
+        }
+        return Math.min(Math.min(dp[n-1][0],dp[n-1][1]),dp[n-1][2]);
     }
 
     @Test
