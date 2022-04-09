@@ -6,29 +6,31 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="contest" />
-        <module name="BinarySearch" />
-        <module name="DataStructureExer" />
         <module name="BinaryIndexedTree" />
-        <module name="Bfs&amp;Dfs" />
         <module name="String" />
         <module name="DP" />
         <module name="Hash" />
         <module name="Math" />
         <module name="BitArithmetic" />
+        <module name="Sort" />
+        <module name="Tree" />
+        <module name="GreedyAlgorithm" />
+        <module name="ConcurrentProgramming" />
+        <module name="UnionSet" />
+        <module name="contest" />
+        <module name="BinarySearch" />
+        <module name="DataStructureExer" />
+        <module name="Bfs&amp;Dfs" />
         <module name="Deque" />
         <module name="LinkedList" />
         <module name="BackTrack" />
         <module name="javaLanguage" />
+        <module name="Graph" />
         <module name="Array &amp; Matrix" />
         <module name="Offer" />
-        <module name="Sort" />
-        <module name="Tree" />
         <module name="HOT100" />
-        <module name="GreedyAlgorithm" />
         <module name="Binary" />
         <module name="SceneDesign" />
-        <module name="ConcurrentProgramming" />
         <module name="Topo" />
       </profile>
     </annotationProcessing>
@@ -45,6 +47,7 @@
       <module name="DataStructureExer" target="8" />
       <module name="Deque" target="8" />
       <module name="DP" target="8" />
+      <module name="Graph" target="1.8" />
       <module name="GreedyAlgorithm" target="8" />
       <module name="Hash" target="8" />
       <module name="HOT100" target="8" />
@@ -58,6 +61,13 @@
       <module name="String" target="8" />
       <module name="Topo" target="8" />
       <module name="Tree" target="8" />
+      <module name="UnionSet" target="1.8" />
     </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="Graph" options="-parameters" />
+      <module name="UnionSet" options="-parameters" />
+    </option>
   </component>
 </project>
